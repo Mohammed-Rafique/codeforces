@@ -455,6 +455,3 @@
 
 ---
 
-<div align="center">
-<sub>To track progress: edit this file and change <code>[ ]</code> to <code>[x]</code> for finished topics.</sub>
-</div>
