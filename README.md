@@ -1,14 +1,11 @@
 <div align="center">
 
 <sub><code>BEGINNER → EXPERT</code></sub>
-
 <h1>CP Roadmap</h1>
 
 <code>Competitive Programming · 11 Levels · Track Your Progress</code>
-
 <br><br>
-
-⚪ Core topic &nbsp;&nbsp;·&nbsp;&nbsp; 🟢 Added by Claude &nbsp;&nbsp;·&nbsp;&nbsp; 🔴 Low CP priority
+⚪ Core topic &nbsp;&nbsp;·&nbsp;&nbsp; 🟢 Addvance &nbsp;&nbsp;·&nbsp;&nbsp; 🔴 Low CP priority
 
 <br>
 
